@@ -8,7 +8,6 @@ from nltk.corpus import wordnet
 from nltk import pos_tag
 from nltk.stem import WordNetLemmatizer
 
-"""
 import nltk
 # Thư mục bạn muốn lưu dữ liệu
 nltk_data_dir = r"../corpora"
@@ -23,8 +22,6 @@ nltk.download("averaged_perceptron_tagger")
 # Thêm đường dẫn để NLTK nhận diện
 if nltk_data_dir not in nltk.data.path:
     nltk.data.path.append(nltk_data_dir)
-
-"""
 
 # CLEAN TEXT
 remove_character = string.punctuation
