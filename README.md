@@ -41,10 +41,7 @@ Do hạn chế kích thước file GitHub, vui lòng tự tải datasets:
 
 Download: twitter_sentiment_analysis.csv
 
-2.
-Tạo thư mục: mkdir -p data/raw
-
-Tạo thư mục để lưu data xử lý xong: mkdir -p data/processed
+2. Tạo thư mục: mkdir -p data/raw. Tạo thư mục để lưu data xử lý xong: mkdir -p data/processed
 
 3. Đặt file: Copy file vào data/raw/twitter_sentiment_analysis.csv
 
