@@ -31,9 +31,19 @@ sentiment_english_analysis/
 
 ## Dữ liệu
 Dữ liệu gốc: data/raw/twitter_sentiment_analysis.csv
-Link: https://www.kaggle.com/datasets/daniel09817/twitter-sentiment-analysis
 
 Dữ liệu đã xử lý: data/processed/sentiment_processed.csv
+
+## Thiết lập datasets
+Do hạn chế kích thước file GitHub, vui lòng tự tải datasets:
+
+Truy cập: Kaggle Dataset: https://www.kaggle.com/datasets/daniel09817/twitter-sentiment-analysis
+Download: twitter_sentiment_analysis.csv
+
+Tạo thư mục: mkdir -p data/raw
+Tạo thư mục để lưu data xử lý xong: mkdir -p data/processed
+
+Đặt file: Copy file vào data/raw/twitter_sentiment_analysis.csv
 
 ## Thư viện chính
 pandas - Xử lý dữ liệu
