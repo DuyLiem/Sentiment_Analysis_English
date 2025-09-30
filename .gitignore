@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+src/__pycache__/
+src/preprocessing/__pycache__/
+src/__init__.cpython-313.pyc
+
+# Jupyter cache
+.ipynb_checkpoints/
+
+# NLTK DATA 
+corpora/
+omw-1.4/
+stopwords/
+taggers/
+tokenizers/
+wordnet/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment
+env/
+venv/
+.venv/
