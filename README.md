@@ -86,7 +86,3 @@ Mở các notebooks theo thứ tự:
 02_model_training.ipynb - Huấn luyện mô hình
 
 03_model_inference.ipynb - Dự đoán với dữ liệu mới
-
-## Tác giả
-1. Nguyễn Duy Liêm [liem.nd239750@sis.hust.edu.vn]
-2. Nguyễn Vũ Duy Anh[anh.nvd239755@sis.hust.edu.vn]
